@@ -7,7 +7,7 @@ This is a simple game written in Pygame.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your_username/pygame-game.git
+   git clone https://github.com/Czinaaz/pygame.git
 
 2. pip install pygame
 
