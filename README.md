@@ -19,3 +19,6 @@ This is a simple game written in Pygame.
 - Alternatively, share the game code on GitHub so others can download and run it locally.
 
 If you have more questions, let me know! 😊
+
+
+![alt text](image.png)
