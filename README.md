@@ -17,6 +17,7 @@ This is a simple game written in Pygame.
 - GitHub Pages does not directly support Pygame.
 - To make your game available online, rewrite it in JavaScript (e.g. Phaser) or use Pyodide to run Python in your browser.
 - Alternatively, share the game code on GitHub so others can download and run it locally.
+- Visin my repo: https://github.com/Czinaaz/ace-pilot-rocket-run to play another my game!
 
 If you have more questions, let me know! 😊
 
