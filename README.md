@@ -1,4 +1,3 @@
-
 ﻿# Game Goose by pygame
 
 This is a simple game written in Pygame.
